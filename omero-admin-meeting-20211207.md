@@ -17,13 +17,13 @@ Note: This Zoom meeting is being recorded for those who can't attend, if you don
 
 * Live notes at [Hackmd](https://hackmd.io/@UQQhmNEGSjGnTBxMsQkE5w/HyFun16YY/edit)
 
-* Video recording: https://crick.zoom.us/rec/share/Gsbm268NTJmVBrHjWwWPwft07WM_awjI55IT1l3HJjbHuZUU1ztDFpB3DHF1F8xb.iIS0k5lv5iOOQgas
+* [Video recording](https://crick.zoom.us/rec/share/Gsbm268NTJmVBrHjWwWPwft07WM_awjI55IT1l3HJjbHuZUU1ztDFpB3DHF1F8xb.iIS0k5lv5iOOQgas)
     * Passcode: j.xwXT.7
 
 Notes:
 
 * Erick and Dave Mellert work at The Jackson Laboratory, doing a lot of automation and admin work at a medium-sized OMERO instance. Eric is currently helping them on file formats issues and moving their public OMERO instance to the cloud.
-* Ken work at The Francis Crick Institute in London. He used to work at RIKEN in Japan running OMERO as a public repositiory and joined Crick back in February this year.  Slides on Crick OMERO here: https://hackmd.io/@UQQhmNEGSjGnTBxMsQkE5w/rk0fiXAtF
+* Ken work at The Francis Crick Institute in London. He used to work at RIKEN in Japan running OMERO as a public repositiory and joined Crick back in February this year.  Slides on [Crick OMERO](https://github.com/DrKenHo-crick/omero-admin-meeting/blob/main/crickomero-202111207.md)
 * Jeffrey (MIT) is starting to implement OMERO
 * Judith is setting up for Montreal community and for Canada
 * Tao and Ved (Alison North group at Rockefeller Univ.) are exploring and trying to setup OMERO for users at their imaging facility.
